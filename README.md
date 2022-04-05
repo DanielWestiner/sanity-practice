@@ -1,12 +1,8 @@
 # sanity-practice
 
-A portfolio using structured content and a static site builder.
-
-Deployed from [sanity.io/create](https://www.sanity.io/create/?template=sanity-io%2Fsanity-template-gatsby-portfolio).
-
 ## What you have
 
-- A blazing fast portfolio with [Gatsby.js](https://gatsbyjs.org)
+- Gatsby.js [Gatsby.js](https://gatsbyjs.org)
 - Structured content using [Sanity.io](https://www.sanity.io)
 - Global deployment on [Netlify](https://netlify.com)
 
